@@ -3,7 +3,6 @@ source("https://github.com/ITSLeeds/go/releases/download/v0.5/setup_function.R")
 setup_R(pkgs = c("sf",
                  "tidyverse",
                  "tmap",
-                 "pct",
                  "stats19",
                  "stplanr",
                  "dodgr",
